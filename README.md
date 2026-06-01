@@ -6,6 +6,8 @@ Il sito, denominato Wanderwave Travel, è una piattaforma web per la gestione de
 
 LINK SITO WEB: http://wanderwavetravel.altervista.org/source/interfaces/home/home.php
 
+
+
 # Obiettivi
 
 L’obiettivo del progetto era realizzare una piattaforma web per la ricerca e la prenotazione di viaggi, offrendo agli utenti un’interfaccia intuitiva e diverse funzionalità per la gestione delle proprie prenotazioni.
@@ -21,6 +23,8 @@ In particolare, il sito doveva consentire di:
 * Effettuare il logout in modo sicuro.
 * Ricercare viaggi attraverso strumenti di ricerca dedicati.
 
+
+
 # Tecnologie usate
 
 * HTML
@@ -29,6 +33,8 @@ In particolare, il sito doveva consentire di:
 * PHP
 * MySQL
 * GitHub
+
+
 
 # Problemi riscontrati
 
@@ -44,6 +50,8 @@ Al caricamento delle risorse JavaScript viene inviata una richiesta al backend (
 
 Successivamente, tramite la gestione di eventi di input e funzioni di ricerca in JavaScript, è stato possibile aggiornare dinamicamente i risultati mostrati nella form, rendendo la ricerca completamente interattiva e dinamica in tempo reale.
 
+
+
 # Immagini sito web
 
 ## Home Page
@@ -52,17 +60,27 @@ Successivamente, tramite la gestione di eventi di input e funzioni di ricerca in
 
 Pagina principale in cui risiedono funzionalità principali come la navbar, lo slideshow e la barra di ricerca. Le pagine del sito web hanno uno stile panoramico; ciascuna pagina ha uno sfondo dedicato.
 
+
 ## Travel Page
 
 ![Travel Page](images/travel_page.png)
 
 La ricerca effettuata nella homepage porta a questa pagina, dove viene presentata una lista di viaggi con le rispettive informazioni sulle categorie e sul prezzo.
 
+
 ## Trip Page
 
 ![Trip Page](images/trip_page.png)
 
 Dopo aver selezionato il viaggio si prosegue con la prenotazione e il pagamento. Sono inoltre riportati dati aggiuntivi relativi al viaggio, informazioni sull’hotel e la prenotazione delle camere.
+
+
+
+# GANTT 
+
+![Gantt](images/gantt.png)
+
+
 
 # Conclusione
 
