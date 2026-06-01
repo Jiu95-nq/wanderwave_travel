@@ -43,7 +43,7 @@
         </div>
 
         <div id="services_drop_box" class="drop_box">
-            <a href="https://github.com/Jys76/web_agenzia_viaggi" class="drop_box_links">GITHUB</a>
+            <a href="https://github.com/Jiu95-nq/wanderwave_travel" class="drop_box_links">GITHUB</a>
         </div>
 
         <div id="travel_drop_box" class="drop_box">
